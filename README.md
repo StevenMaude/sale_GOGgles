@@ -1,6 +1,6 @@
 # sale_GOGgles
 
-Watches GOG.com's Fall Insomnia sale for you.
+Watches [GOG.com](http://www.gog.com)'s Fall Insomnia sale for you.
 
 **Warning: quick 30 minute hack!**
 

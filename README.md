@@ -14,7 +14,7 @@ looks for System Shock 2 and the Tomb Raider 1+2+3 pack.
 
 Games must match exactly; I think the actual title should be the one from the
 title of the page for the game itself, and replace spaces with underscores
-e.g. for http://www.gog.com/game/rollercoaster_tycoon_3
+e.g. for [Rollercoaster Tycoon 3](http://www.gog.com/game/rollercoaster_tycoon_3)
 you'd use sale_GOGgles.py Rollercoaster_Tycoon_3_Platinum!
 
 It just prints out "Game wanted!" if the on-sale game matches those you've

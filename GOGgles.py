@@ -75,7 +75,7 @@ def main():
             # For Windows, something like this might work (not tested):
             # subprocess.call['start', '"www.gog.com"']
         previous_title = current_title
-        time.sleep(10)
+        time.sleep(30)
 
 if __name__ == '__main__':
     main()

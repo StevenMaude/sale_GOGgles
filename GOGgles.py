@@ -38,7 +38,7 @@ def get_sale_game_title(content):
     """
     Return the current on-sale game title
     """
-    title_xpath = '//*[@id="giantSpotDisplay"]/div[1]/div/div/div/a[1]/text()'
+    title_xpath = "//div[@class='game__info']/a[@class='game__title']/text()"
     etree = lxml.html.fromstring(content)
     text = etree.xpath(title_xpath)[0].strip()
     return text

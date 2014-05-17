@@ -2,6 +2,8 @@
 
 Watches [GOG.com](http://www.gog.com)'s ~~Fall~~ Spring Insomnia sale for you.
 
+2014-05-17: Now defunct again, until the next sale!
+
 **Warning: quick 30 minute hack!**
 
 ## Install:
